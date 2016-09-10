@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+    <compiler>
+        <keep-as3-metadata>
+            <name>XmlAttribute</name>
+            <name>XmlElement</name>
+            <name>XmlElementWrapper</name>
+            <name>XmlRootElement</name>
+            <name>XmlValue</name>
+        </keep-as3-metadata>
+    </compiler>
+</flex-config>

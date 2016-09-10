@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="3">
+  <includeClasses>
+    <classEntry path="com.tilfin.aaxb.XmlSerializer"/>
+    <classEntry path="com.tilfin.aaxb.annotations.XmlAttribute"/>
+    <classEntry path="com.tilfin.aaxb.annotations.XmlElement"/>
+    <classEntry path="com.tilfin.aaxb.annotations.XmlElementWrapper"/>
+    <classEntry path="com.tilfin.aaxb.annotations.XmlValue"/>
+    <classEntry path="com.tilfin.aaxb.converters.BooleanConverter"/>
+    <classEntry path="com.tilfin.aaxb.converters.ByteArrayConverter"/>
+    <classEntry path="com.tilfin.aaxb.converters.DateConverter"/>
+    <classEntry path="com.tilfin.aaxb.converters.IConverter"/>
+    <classEntry path="com.tilfin.aaxb.converters.NumberConverter"/>
+    <classEntry path="com.tilfin.aaxb.converters.StringConverter"/>
+    <classEntry path="com.tilfin.aaxb.reflect.ClassStructureProvider"/>
+    <classEntry path="com.tilfin.aaxb.reflect.TypeDescriptor"/>
+    <classEntry path="com.tilfin.aaxb.reflect.TypeInfo"/>
+    <classEntry path="com.tilfin.aaxb.marshallers.BaseMarshaller"/>
+    <classEntry path="com.tilfin.aaxb.marshallers.IMarshaller"/>
+    <classEntry path="com.tilfin.aaxb.marshallers.PrimitiveMarshaller"/>
+    <classEntry path="com.tilfin.aaxb.marshallers.StructureMarshaller"/>
+    <classEntry path="com.tilfin.aaxb.marshallers.VectorMarshaller"/>
+    <classEntry path="com.tilfin.aaxb.utils.Base64Util"/>
+    <classEntry path="com.tilfin.aaxb.annotations.XmlRootElement"/>
+    <classEntry path="com.tilfin.aaxb.reflect.ClassStructure"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
